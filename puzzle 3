@@ -1,0 +1,10 @@
+down
+down
+var firstColorSeen = getColor
+if (getColor == "blue"){
+  right
+} 
+else
+{
+  down
+} 
