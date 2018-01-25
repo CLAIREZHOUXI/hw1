@@ -1,10 +1,12 @@
 down
 down
 var firstColorSeen = getColor
-if (getColor == "blue"){
-  right
-} 
-else
-{
-  down
-} 
+down
+down
+dwon
+right
+right
+right
+setColor(firstColorSeen)
+right
+up
