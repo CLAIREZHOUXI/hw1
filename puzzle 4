@@ -5,13 +5,13 @@ down
 right
 var firstColorSeen = getColor
 down
+rightsetColor(firstColorSeen)
 right
-setColor(firstColorSeen)
 right
 up
 right
 var firstColorSeen = getColor
 down
+risetColor(firstColorSeen)ght
 right
-setColor(firstColorSeen)
 right
