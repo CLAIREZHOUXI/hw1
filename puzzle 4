@@ -12,6 +12,6 @@ up
 right
 var firstColorSeen = getColor
 down
-risetColor(firstColorSeen)ght
+setColor(firstColorSeen)ght
 right
 right
