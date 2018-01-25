@@ -1,19 +1,29 @@
 var firstColorSeen = getColor
-while (getColor != "red") {down}
+while (getColor != "red") {
+down
+}
 right
 right
 var firstColorSeen = getColor
-while (getColor != "white") {up}
+while (getColor != "red") {
+up
+}
 right
 right
 var firstColorSeen = getColor
-while (getColor != "white") {down}
+while (getColor != "red") {
+down
+}
 right
 right
 var firstColorSeen = getColor
-while (getColor != "white") {up}
+while (getColor != "white") {
+up
+}
 right
 right
 var firstColorSeen = getColor
-while (getColor != "white") {down}
+while (getColor != "white") {
+down
+}
 right
