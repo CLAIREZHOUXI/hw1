@@ -1,5 +1,5 @@
 var firstColorSeen = getColor
-while (getColor != "white") {down}
+while (getColor != "red") {down}
 right
 right
 var firstColorSeen = getColor
