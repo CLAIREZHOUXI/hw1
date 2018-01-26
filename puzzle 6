@@ -6,7 +6,9 @@ if (getColor == "blue") {
   if (getColor = "red") {
   left
   down
-}
+  }
+ }
+
 
 if (getColor == "red") {
   up
