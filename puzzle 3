@@ -1,12 +1,13 @@
-down
-down
-var firstColorSeen = getColor
-down
-down
-dwon
-right
-right
-setColor(firstColorSeen)
-right
-right
-up
+down();
+down();
+var firstColorSeen = getColor();
+down();
+down();
+down();
+right();
+right();
+right();
+setColor (firstColorSeen);
+right();
+right();
+up();
