@@ -1,29 +1,19 @@
-var firstColorSeen = getColor
-while (getColor != "red") {
-down
+loop (){
+  while (getColor() != "red"){
+    dowfunctionn();
+  }
+  right();
+  right();
+  while (getColor() != "red"){
+    up();
+  }
+  right();
+  right();
 }
-right
-right
-var firstColorSeen = getColor
-while (getColor != "red") {
-up
+
+loop();
+loop();
+while (getColor() != "red"){
+  down();
 }
-right
-right
-var firstColorSeen = getColor
-while (getColor != "red") {
-down
-}
-right
-right
-var firstColorSeen = getColor
-while (getColor != "white") {
-up
-}
-right
-right
-var firstColorSeen = getColor
-while (getColor != "white") {
-down
-}
-right
+right();
