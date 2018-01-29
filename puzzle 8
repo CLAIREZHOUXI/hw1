@@ -1,30 +1,41 @@
-var steps = 0
+ var steps = 0
 while (steps < 8) {
-  down
+  down();  
   steps = steps + 1
 }
-right
-right
-while (steps < 7) {
-  up
-  steps = steps + 1
+right();  
+right();  
+var steps2 = 0
+
+while (steps2 < 7) {
+  up();  
+  steps2 = steps2 + 1
 }
-right
-right
-while (steps < 7) {
-  down
-  steps = steps + 1
+right();  
+right(); 
+
+var steps3 = 0
+while (steps3 < 7) {
+  down();  
+  steps3 = steps3 + 1
 }
-right
-right
-while (steps < 7) {
-  up
-  steps = steps + 1
+
+right();  
+right(); 
+
+var steps4 = 0
+
+while (steps4 < 7) {
+  up();  
+  steps4 = steps4 + 1
 }
-right
-right
-while (steps < 7) {
-  down
-  steps = steps + 1
+
+right();  
+right();
+var steps5 = 0
+while (steps5 < 7) {
+  down();  
+  steps5 = steps5 + 1
 }
-right
+right(); 
+
