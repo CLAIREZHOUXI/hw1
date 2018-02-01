@@ -1,0 +1,40 @@
+function setup() {
+  createCanvas(340, 340);
+  background(0,0,0);
+}
+
+function draw() {
+ background(0,0,0);
+ // first rect.
+ fill(255,255,255);
+  rect(10, 10, 50, 100);
+ // second rect.
+ rect(10, 120, 50,70);
+ // third rect.
+ fill(255,0,0);
+ rect(10, 200, 100,130);
+ // fourth rect. 
+ fill(0,0,255);
+ rect(70,10,100,70)
+ // fifth rect. 
+ fill(255,255,0);
+ rect(70,90,100,100)
+ // sixth rect. 
+ fill(255,255,0);
+ rect(70,90,100,100)
+ // seventh rect. 
+ fill(255,255,255);
+ rect(120,200,80,130)
+// eighth rect. 
+ fill(255,255,255);
+ rect(180,10,145,40)
+ // ninth rect. 
+ fill(255,0,0);
+ rect(180,60,145,40)
+  // tenth rect. 
+ fill(255,255,255);
+ rect(180,110,145,80)
+  // 11th rect. 
+ fill(0,0,255);
+ rect(210,200,115,130)
+  }
